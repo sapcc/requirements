@@ -225,7 +225,7 @@ oslo.serialization===2.13.0
 oslo.service===1.16.0
 oslo.utils===3.16.0
 oslo.versionedobjects===1.17.0
-oslo.vmware===2.14.0
+https://github.com/sapcc/oslo.vmware.git@stable/newton-m3#egg=oslo.vmware
 oslosphinx===4.7.0
 oslotest===2.10.0
 osprofiler===1.4.0
