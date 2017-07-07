@@ -280,7 +280,7 @@ python-congressclient===1.2.3
 python-consul===0.6.0
 python-dateutil===2.5.0
 #python-designateclient===2.1.0
-git+https://github.com/sapcc/python-designateclient.git@stable/master-m3#egg=python-designateclient
+git+https://github.com/sapcc/python-designateclient.git@master-m3#egg=python-designateclient
 python-editor===0.5
 python-glanceclient===2.0.1
 python-heatclient===1.1.0
