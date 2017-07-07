@@ -282,7 +282,8 @@ python-cinderclient===1.9.0
 python-congressclient===1.5.0
 python-consul===0.6.1
 python-dateutil===2.5.3
-python-designateclient===2.3.0
+#python-designateclient===2.3.0
+https://github.com/sapcc/python-designateclient.git@stable/master-m3#egg=python-designateclient
 python-editor===1.0.1
 python-glanceclient===2.5.0
 python-heatclient===1.5.0
