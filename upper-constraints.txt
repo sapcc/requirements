@@ -281,7 +281,9 @@ python-consul===0.6.0
 python-dateutil===2.5.0
 git+https://github.com/sapcc/python-designateclient.git@master-m3#egg=python-designateclient
 python-editor===0.5
-python-glanceclient===2.0.1
+# Build from https://github.com/solarsea/python-glanceclient/tree/stable/mitaka
+# Bump minor for each patch
+python-glanceclient===2.0.2.dev5
 python-heatclient===1.1.0
 python-ironic-inspector-client===1.6.0
 python-ironicclient===1.3.1
