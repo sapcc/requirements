@@ -283,7 +283,8 @@ git+https://github.com/sapcc/python-designateclient.git@master-m3#egg=python-des
 python-editor===0.5
 # Build from https://github.com/solarsea/python-glanceclient/tree/stable/mitaka
 # Bump minor for each patch
-python-glanceclient===2.0.2.dev7
+git+https://github.com/sapcc/python-glanceclient.git@master-m3#egg=python-glanceclient
+#python-glanceclient===2.0.2.dev7
 python-heatclient===1.1.0
 python-ironic-inspector-client===1.6.0
 python-ironicclient===1.3.1
