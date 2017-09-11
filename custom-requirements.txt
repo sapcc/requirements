@@ -1,5 +1,2 @@
 # monitoring
 git+https://github.com/sapcc/openstack-ops-middleware.git
-# keystone
-git+https://github.wdf.sap.corp/monsoon/keystone-extensions.git
-git+https://github.wdf.sap.corp/monsoon/keystone-config-tools.git
