@@ -1,0 +1,2 @@
+# monitoring
+git+https://github.com/sapcc/openstack-ops-middleware.git
