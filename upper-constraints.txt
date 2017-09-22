@@ -346,7 +346,8 @@ sphinxcontrib-seqdiag===0.8.5
 sqlalchemy-migrate===0.10.0
 sqlparse===0.1.18
 stevedore===1.12.0
-suds-jurko===0.6
+#suds-jurko===0.6
+git+https://github.com/sapcc/suds-jurko.git#egg=suds-jurko
 sysv-ipc===0.7.0
 tablib===0.11.2
 taskflow===1.30.0
