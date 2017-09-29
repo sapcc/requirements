@@ -227,7 +227,7 @@ oslo.versionedobjects===1.8.0
 git+https://github.com/sapcc/oslo.vmware.git@stable/mitaka-m3#egg=oslo.vmware
 oslosphinx===4.3.0
 oslotest===2.4.0
-osprofiler===1.2.0
+git+https://github.com/sapcc/osprofiler.git#egg=osprofiler
 overtest===0.14.0
 ovs===2.4.0;python_version=='2.7'
 packaging===16.8
