@@ -215,7 +215,8 @@ oslo.context===2.2.0
 git+https://github.com/sapcc/oslo.db.git@stable/mitaka-m3#egg=oslo.db
 oslo.i18n===3.5.0
 oslo.log===3.3.0
-oslo.messaging===4.6.1
+# oslo.messaging===4.6.1
+git+https://github.com/sapcc/oslo.messaging.git@stable/mitaka-m3#egg=oslo.messaging
 oslo.middleware===3.8.0
 oslo.policy===1.6.0
 oslo.privsep===1.4.0
