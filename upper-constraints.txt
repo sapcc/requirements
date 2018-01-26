@@ -540,6 +540,6 @@ scikit-learn===0.18.2
 zuul-sphinx===0.1.2
 shade===1.22.2
 git+https://github.com/sapcc/dnspython.git@master#egg=dnspython
-git+https://github.com/sapcc/eventlet.git@support_long_txt#egg=eventlet
+git+https://github.com/sapcc/eventlet.git@stable/pike-m3#egg=eventlet
 git+https://github.com/sapcc/openstack-audit-middleware.git#egg=audit-middleware
 git+https://github.com/sapcc/python-designateclient.git@stable/pike-m3#egg=python-designateclient
