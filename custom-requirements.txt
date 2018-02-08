@@ -1,0 +1,5 @@
+# monitoring
+git+https://github.com/sapcc/openstack-ops-middleware.git
+
+# audit trail
+git+https://github.com/sapcc/openstack-audit-middleware.git
