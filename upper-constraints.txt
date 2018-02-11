@@ -231,7 +231,7 @@ oslo.versionedobjects===1.17.1
 git+https://github.com/sapcc/oslo.vmware.git@stable/newton-m3#egg=oslo.vmware
 oslosphinx===4.7.0
 oslotest===2.10.1
-osprofiler===1.4.0
+# osprofiler===1.4.0 Building from own branch
 ovs===2.5.0;python_version=='2.7'
 ovs===2.6.0.dev3;python_version=='3.4'
 ovs===2.6.0.dev3;python_version=='3.5'
