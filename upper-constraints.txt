@@ -252,7 +252,7 @@ oslo.versionedobjects===1.21.1
 oslo.vmware===2.17.1
 oslosphinx===4.10.1
 oslotest===2.13.1
-osprofiler===1.5.0
+# osprofiler===1.5.0 Building from own branch
 ovs===2.6.1
 packaging===16.8
 paramiko===2.1.1
