@@ -6,3 +6,6 @@ git+https://github.com/sapcc/openstack-audit-middleware.git
 
 # osprofiler
 git+https://github.com/sapcc/osprofiler.git
+
+# Should be actually in global requirements
+python-qpid-proton
