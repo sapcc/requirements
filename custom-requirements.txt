@@ -7,5 +7,8 @@ git+https://github.com/sapcc/openstack-audit-middleware.git
 # osprofiler
 git+https://github.com/sapcc/osprofiler.git
 
-# Should be actually in global requirements
+# Should probably be in global requirements
 python-qpid-proton
+
+# requirement for barbican (should also probably to into global-requirements)
+uwsgi
