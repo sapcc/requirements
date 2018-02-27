@@ -6,3 +6,6 @@ git+https://github.com/sapcc/openstack-audit-middleware.git
 
 # osprofiler
 git+https://github.com/sapcc/osprofiler.git
+
+# requirment for barbican
+uwsgi
