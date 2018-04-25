@@ -543,3 +543,4 @@ git+https://github.com/sapcc/dnspython.git@master#egg=dnspython
 git+https://github.com/sapcc/eventlet.git@stable/pike-m3#egg=eventlet
 git+https://github.com/sapcc/python-designateclient.git@stable/pike-m3#egg=python-designateclient
 git+https://github.com/sapcc/openstack-audit-middleware.git
+git+https://github.com/sapcc/designate-tempest-plugin.git
