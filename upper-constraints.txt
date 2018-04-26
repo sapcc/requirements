@@ -31,7 +31,7 @@ python-kingbirdclient===0.2.0
 setproctitle===1.1.10
 pytest===3.3.2
 python-etcd===0.4.5
-raven===6.5.0
+#raven===6.5.0
 cursive===0.2.1
 oslo.service===1.29.0
 django-appconf===1.0.2
