@@ -6,10 +6,10 @@ git+https://github.com/sapcc/openstack-ops-middleware.git
 git+https://github.com/sapcc/openstack-audit-middleware.git
 
 # osprofiler
-git+https://github.com/sapcc/osprofiler.git
+git+https://github.com/sapcc/osprofiler.git@queens#egg=osprofiler
 
 # Should probably be in global requirements
-python-qpid-proton
+#python-qpid-proton
 
 # requirement for barbican (should also probably to into global-requirements)
 uwsgi
