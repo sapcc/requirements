@@ -5,3 +5,4 @@ git+https://github.com/sapcc/osprofiler.git
 setproctitle
 ndg-httpsclient
 hiredis
+python-memcached
