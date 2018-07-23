@@ -1,9 +1,7 @@
 # monitoring
 git+https://github.com/sapcc/raven-python.git
 git+https://github.com/sapcc/openstack-ops-middleware.git
-#git+https://github.com/sapcc/openstack-watcher-middleware.git
-git+https://github.com/sapcc/openstack-watcher-middleware.git@latency_and_status#egg=watcher-middleware
-
+git+https://github.com/sapcc/openstack-watcher-middleware.git
 
 # audit trail
 git+https://github.com/sapcc/openstack-audit-middleware.git
