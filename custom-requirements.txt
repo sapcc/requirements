@@ -1,6 +1,7 @@
 git+https://github.com/sapcc/raven-python.git
 git+https://github.com/sapcc/openstack-ops-middleware.git
 git+https://github.com/sapcc/openstack-audit-middleware.git
+git+https://github.com/sapcc/openstack-watcher-middleware.git
 git+https://github.com/sapcc/osprofiler.git
 git+https://github.com/sapcc/designate-tempest-plugin.git
 
