@@ -478,3 +478,6 @@ openstack-release-test
 
 # NOTE(snapiri): This is required for Dragonflow topology visualization
 skydive-client  # Apache-2.0
+
+# Manually added 
+python-qpid-proton
