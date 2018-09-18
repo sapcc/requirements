@@ -12,7 +12,7 @@ python-hnvclient===0.1.0
 Routes===2.4.1
 rtslib-fb===2.1.66
 XStatic-Angular-Bootstrap===2.2.0.0
-paunch===3.0.0
+paunch===3.2.0
 WebOb===1.8.2
 sphinxcontrib-actdiag===0.8.5
 docopt===0.6.2
@@ -339,7 +339,7 @@ crc16===0.1.1
 protobuf===3.6.0
 os-dpm===1.1.0
 sushy===1.6.0
-python-neutronclient===6.9.0
+python-neutronclient===6.9.1
 pika===0.12.0
 oslo.cache===1.30.1
 WebTest===2.0.30
@@ -434,7 +434,7 @@ GitPython===2.1.11
 python-ironicclient===2.5.0
 XStatic===1.0.1
 XStatic-Angular-FileUpload===12.0.4.0
-python-openstackclient===3.16.0
+python-openstackclient===3.16.1
 pyzmq===17.1.0
 oslo.db===4.40.0
 simplegeneric===0.8.1
@@ -488,7 +488,7 @@ qpid-python===1.36.0.post1;python_version=='2.7'
 contextlib2===0.5.5
 XStatic-Angular-lrdragndrop===1.0.2.2
 python-congressclient===1.11.0
-ovsdbapp===0.12.0
+ovsdbapp===0.12.1
 aniso8601===3.0.2
 rjsmin===1.0.12
 icalendar===4.0.2
@@ -497,7 +497,7 @@ decorator===4.3.0
 cffi===1.11.5
 futurist===1.7.0
 jsonschema===2.6.0
-python-blazarclient===2.0.0
+python-blazarclient===2.0.1
 alembic===1.0.0
 glance-store===0.26.1
 sphinx-testing===0.7.2
