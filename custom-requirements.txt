@@ -7,8 +7,7 @@ git+https://github.com/sapcc/openstack-watcher-middleware.git
 git+https://github.com/sapcc/openstack-audit-middleware.git
 
 # osprofiler
-# git+https://github.com/sapcc/osprofiler.git@stable/queens-m3#egg=osprofiler
-# using upstream osprofiler 2.3.0 that has jaeger support incorporated
+git+https://github.com/sapcc/osprofiler.git@stable/queens-m3#egg=osprofiler
 
 # Should probably be in global requirements
 #python-qpid-proton
