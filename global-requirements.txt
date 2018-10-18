@@ -182,7 +182,7 @@ pika>=0.10.0  # BSD
 pika-pool>=0.1.3  # BSD
 Pillow>=2.4.0  # PIL License
 Pint>=0.5  # BSD
-pip>=8.0.2  # MIT
+pip>=8.0.2,!=18.1  # MIT
 PrettyTable>=0.7.1,<0.8  # BSD
 psutil>=3.2.2  # BSD
 pyasn1>=0.1.8,!=0.2.3  # BSD
