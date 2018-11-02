@@ -42,7 +42,8 @@ django-babel  # BSD
 django-compressor  # MIT
 django-floppyforms<2  # BSD
 django-formtools  # BSD
-dnspython;python_version=='2.7'  # http://www.dnspython.org/LICENSE
+git+https://github.com/sapcc/dnspython.git@master#egg=dnspython
+#dnspython;python_version=='2.7'  # http://www.dnspython.org/LICENSE
 dnspython3!=1.13.0,!=1.14.0;python_version>='3.0'  # http://www.dnspython.org/LICENSE
 # Note(tonyb): We don't actually directly depend on docutils but we pull it in
 # indirectly and we needed to blacklist 0.13.1 for problems with
