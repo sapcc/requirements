@@ -32,7 +32,7 @@ pytest===3.6.3
 python-etcd===0.4.5
 #raven===6.9.0
 cursive===0.2.2
-oslo.service===1.31.5
+oslo.service===1.31.7
 django-appconf===1.0.2
 pykerberos===1.2.1
 certifi===2018.4.16
@@ -98,7 +98,7 @@ monasca-common===2.11.0
 scipy===1.1.0
 rsd-lib===0.2.2
 XStatic-Jasmine===2.4.1.1
-python-glanceclient===2.13.0
+python-glanceclient===2.13.1
 pyinotify===0.9.6
 debtcollector===1.20.0
 requests-unixsocket===0.1.5
@@ -365,7 +365,7 @@ seqdiag===0.9.5
 numpy===1.14.5
 msgpack===0.5.6
 Sphinx===1.7.6
-oslo.config===6.4.0
+oslo.config===6.4.1
 tempest===19.0.0
 django-floppyforms===1.7.0
 openstackdocstheme===1.22.0
@@ -382,7 +382,7 @@ betamax===0.8.1
 construct===2.8.22
 pyparsing===2.2.0
 dogpile.cache===0.6.6
-python-barbicanclient===4.7.0
+python-barbicanclient===4.7.1
 tricircleclient===0.4.0
 WSME===0.9.3
 proboscis===1.2.6.0
@@ -435,7 +435,7 @@ GitPython===2.1.11
 python-ironicclient===2.5.0
 XStatic===1.0.1
 XStatic-Angular-FileUpload===12.0.4.0
-python-openstackclient===3.16.1
+python-openstackclient===3.16.2
 pyzmq===17.1.0
 oslo.db===4.40.0
 simplegeneric===0.8.1
