@@ -317,7 +317,7 @@ XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
 python-cinderclient===4.0.1
 #keystonemiddleware===5.2.0
-git+https://github.com/sapcc/keystonemiddleware.git@stable/rocky-m3#egg=keystonemiddelware
+git+https://github.com/sapcc/keystonemiddleware.git@stable/rocky-m3#egg=keystonemiddleware
 django-formtools===2.1
 python-ceilometerclient===2.9.0
 XStatic-Spin===1.2.5.2
