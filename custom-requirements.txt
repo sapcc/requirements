@@ -1,5 +1,2 @@
-git+https://github.com/sapcc/dnspython.git@master#egg=dnspython
-git+https://github.com/sapcc/keystonemiddleware.git@stable/rocky-m3#egg=keystonemiddleware
-git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
 git+https://github.com/sapcc/openstack-watcher-middleware.git
 git+https://github.com/sapcc/openstack-audit-middleware.git
