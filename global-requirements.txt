@@ -96,7 +96,8 @@ jsonpath-rw-ext  # Apache-2.0
 jsonschema<3.0.0  # MIT
 kazoo  # Apache-2.0
 keystoneauth1  # Apache-2.0
-keystonemiddleware  # Apache-2.0
+#keystonemiddleware  # Apache-2.0
+git+https://github.com/sapcc/keystonemiddleware.git@stable/rocky-m3#egg=keystonemiddelware
 krest  # Apache-2.0
 kubernetes  # Apache-2.0
 kuryr-lib  # Apache-2.0
