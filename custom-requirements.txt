@@ -1,2 +1,4 @@
+git+https://github.com/sapcc/keystonemiddleware.git@stable/rocky-m3#egg=keystonemiddleware
 git+https://github.com/sapcc/openstack-watcher-middleware.git
 git+https://github.com/sapcc/openstack-audit-middleware.git
+git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven

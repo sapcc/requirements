@@ -97,7 +97,6 @@ jsonschema<3.0.0  # MIT
 kazoo  # Apache-2.0
 keystoneauth1  # Apache-2.0
 #keystonemiddleware  # Apache-2.0
-git+https://github.com/sapcc/keystonemiddleware.git@stable/rocky-m3#egg=keystonemiddleware
 krest  # Apache-2.0
 kubernetes  # Apache-2.0
 kuryr-lib  # Apache-2.0
@@ -296,7 +295,6 @@ pyudev  # LGPLv2.1+
 PyYAML  # MIT
 qpid-python;python_version=='2.7'  # Apache-2.0
 #raven  # BSD
-git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
 reno  # Apache-2.0
 requests  # Apache-2.0
 requests-aws  # BSD License (3 clause)
