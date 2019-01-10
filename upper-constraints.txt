@@ -31,6 +31,7 @@ setproctitle===1.1.10
 pytest===3.6.3
 python-etcd===0.4.5
 #raven===6.9.0
+git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
 cursive===0.2.2
 oslo.service===1.31.7
 django-appconf===1.0.2
@@ -317,6 +318,7 @@ XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
 python-cinderclient===4.0.1
 #keystonemiddleware===5.2.0
+git+https://github.com/sapcc/keystonemiddleware.git@stable/rocky-m3#egg=keystonemiddleware
 django-formtools===2.1
 python-ceilometerclient===2.9.0
 XStatic-Spin===1.2.5.2
