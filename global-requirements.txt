@@ -482,3 +482,4 @@ skydive-client  # Apache-2.0
 # Manually added 
 python-qpid-proton
 uwsgi
+msgpack-python
