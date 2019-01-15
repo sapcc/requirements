@@ -488,3 +488,4 @@ pika-pool           # For amqp1
 python-qpid-proton  # For amqp1
 pyvmomi             # For vcenter-operator & networking-dvs
 attrs               # Dito
+ironic-staging-drivers  # For ironic
