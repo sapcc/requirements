@@ -1,20 +1,3 @@
-git+https://github.com/sapcc/dnspython.git@master#egg=dnspython
-git+https://github.com/sapcc/eventlet.git@stable/pike-m3#egg=eventlet
-git+https://github.com/sapcc/python-designateclient.git@stable/pike-m3#egg=python-designateclient
-
-# monitoring
-git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
 git+https://github.com/sapcc/openstack-ops-middleware.git
-git+https://github.com/sapcc/openstack-watcher-middleware.git
+git+https://github.com/sapcc/openstack-watcher-middleware.git@1.0.26
 git+https://github.com/sapcc/openstack-audit-middleware.git
-
-git+https://github.com/sapcc/keystonemiddleware.git@stable/queens-m3#egg=keystonemiddleware
-
-# osprofiler
-git+https://github.com/sapcc/osprofiler.git@stable/queens-m3#egg=osprofiler
-
-# Should probably be in global requirements
-#python-qpid-proton
-
-# requirement for barbican (should also probably to into global-requirements)
-uwsgi
