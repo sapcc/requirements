@@ -1,3 +1,2 @@
-git+https://github.com/sapcc/openstack-ops-middleware.git
-git+https://github.com/sapcc/openstack-watcher-middleware.git@1.0.26
+git+https://github.com/sapcc/openstack-watcher-middleware.git
 git+https://github.com/sapcc/openstack-audit-middleware.git

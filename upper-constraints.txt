@@ -23,9 +23,8 @@ ryu===4.21
 os-api-ref===1.5.0
 oslo.concurrency===3.25.1
 websocket-client===0.40.0
-#osprofiler===1.15.2
-git+https://github.com/sapcc/osprofiler.git@stable/queens-m3#egg=osprofiler
-jaeger-client
+osprofiler===1.15.2
+#git+https://github.com/sapcc/osprofiler.git@stable/queens-m3#egg=osprofiler
 tabulate===0.8.2
 python-ironic-inspector-client===3.1.1
 lxml===4.1.1
@@ -34,7 +33,7 @@ setproctitle===1.1.10
 pytest===3.3.2
 python-etcd===0.4.5
 #raven===6.5.0
-git+https://github.com/sapcc/raven-python.git@ef84ad6aa81266bce873049d34ca01dcfc599f78#egg=raven
+git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
 cursive===0.2.1
 oslo.service===1.29.0
 django-appconf===1.0.2
@@ -226,7 +225,7 @@ funcsigs===1.0.2;python_version=='2.7'
 zhmcclient===0.18.0
 dnspython3===1.15.0;python_version=='3.4'
 dnspython3===1.15.0;python_version=='3.5'
-#ldappool===2.2.0 see https://github.com/openstack/ldappool/commit/459000d7aa3fa1ace05c800ff1273b99fbd8babe
+ldappool===2.4.0
 termcolor===1.1.0
 hpack===3.0.0;python_version=='3.4'
 hpack===3.0.0;python_version=='3.5'
@@ -322,7 +321,7 @@ XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
 python-cinderclient===3.5.0
 #keystonemiddleware===4.21.0
-git+https://github.com/sapcc/keystonemiddleware.git@31866558f1843fda913d0a627b908d9761948a18#egg=keystonemiddleware
+git+https://github.com/sapcc/keystonemiddleware.git@stable/queens-m3#egg=keystonemiddleware
 django-formtools===2.1
 python-ceilometerclient===2.9.0
 XStatic-Spin===1.2.5.2
