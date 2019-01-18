@@ -31,7 +31,7 @@ setproctitle===1.1.10
 pytest===3.6.3
 python-etcd===0.4.5
 #raven===6.9.0
-git+https://github.com/sapcc/raven-python.git@ef84ad6aa81266bce873049d34ca01dcfc599f78#egg=raven
+git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
 cursive===0.2.2
 oslo.service===1.31.7
 django-appconf===1.0.2
@@ -223,7 +223,7 @@ zhmcclient===0.19.0
 lockfile===0.12.2
 dnspython3===1.15.0;python_version=='3.4'
 dnspython3===1.15.0;python_version=='3.5'
-ldappool===2.3.0
+ldappool===2.4.0
 termcolor===1.1.0
 hiredis===0.2.0
 google-api-python-client===1.7.4
@@ -318,7 +318,7 @@ XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
 python-cinderclient===4.0.1
 #keystonemiddleware===5.2.0
-git+https://github.com/sapcc/keystonemiddleware.git@f4bf85648b335fa83bf8f43f21944f30e98eb68a#egg=keystonemiddleware
+git+https://github.com/sapcc/keystonemiddleware.git@stable/rocky-m3#egg=keystonemiddleware
 django-formtools===2.1
 python-ceilometerclient===2.9.0
 XStatic-Spin===1.2.5.2
