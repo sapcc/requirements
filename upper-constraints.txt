@@ -290,7 +290,7 @@ python-heatclient===1.1.0
 python-ironic-inspector-client===1.6.0
 # python-ironicclient installed from git
 python-keystoneclient===2.3.2
-python-ldap===2.4.25;python_version=='2.7'
+python-ldap===3.1.0;python_version=='2.7'
 python-magnumclient===2.0.0
 python-manilaclient===1.8.1
 python-memcached===1.57
