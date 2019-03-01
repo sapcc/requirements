@@ -33,7 +33,7 @@ python-etcd===0.4.5
 #raven===6.9.0
 git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
 cursive===0.2.2
-oslo.service===1.31.7
+oslo.service===1.31.8
 django-appconf===1.0.2
 pykerberos===1.2.1
 certifi===2018.4.16
@@ -176,7 +176,7 @@ gunicorn===19.9.0
 textfsm===0.4.1
 unittest2===1.1.0
 django-compressor===2.2
-libvirt-python===4.4.0
+libvirt-python===4.6.0
 python-zunclient===2.1.0
 asyncio===3.4.3;python_version=='3.4'
 asyncio===3.4.3;python_version=='3.5'
@@ -213,7 +213,7 @@ funcparserlib===0.3.6
 passlib===1.7.1
 dib-utils===0.0.11
 cliff===2.13.0
-os-brick===2.5.4
+os-brick===2.5.5
 ansible-runner===1.0.5
 trollius===2.2;python_version=='2.7'
 scp===0.11.0
@@ -287,7 +287,7 @@ thriftpy===0.3.9;python_version=='2.7'
 text-unidecode===1.2
 murano-pkg-check===0.3.0
 oslo.vmware===2.31.0
-sqlalchemy-migrate===0.11.0
+sqlalchemy-migrate===0.12.0
 python-monascaclient===1.12.1
 ldap3===2.5
 requests-ntlm===1.1.0
@@ -344,7 +344,7 @@ os-dpm===1.1.0
 sushy===1.6.0
 python-neutronclient===6.9.1
 pika===0.12.0
-oslo.cache===1.30.1
+oslo.cache===1.30.3
 WebTest===2.0.30
 openstack.nose-plugin===0.11
 os-collect-config===9.2.0
@@ -384,7 +384,7 @@ betamax===0.8.1
 construct===2.8.22
 pyparsing===2.2.0
 dogpile.cache===0.6.6
-python-barbicanclient===4.7.1
+python-barbicanclient===4.7.2
 tricircleclient===0.4.0
 WSME===0.9.3
 proboscis===1.2.6.0
@@ -434,7 +434,7 @@ subprocess32===3.5.2;python_version=='2.7'
 etcd3gw===0.2.4
 Flask-RESTful===0.3.6
 GitPython===2.1.11
-python-ironicclient===2.5.0
+python-ironicclient===2.5.1
 XStatic===1.0.1
 XStatic-Angular-FileUpload===12.0.4.0
 python-openstackclient===3.16.2
@@ -491,7 +491,7 @@ qpid-python===1.36.0.post1;python_version=='2.7'
 contextlib2===0.5.5
 XStatic-Angular-lrdragndrop===1.0.2.2
 python-congressclient===1.11.0
-ovsdbapp===0.12.2
+ovsdbapp===0.12.3
 aniso8601===3.0.2
 rjsmin===1.0.12
 icalendar===4.0.2
@@ -512,7 +512,7 @@ logutils===0.3.5
 scandir===1.7;python_version=='2.7'
 sphinxcontrib-fulltoc===1.2.0
 smmap2===2.0.4
-greenlet===0.4.13
+greenlet===0.4.15
 XStatic-Angular-Vis===4.16.0.0
 xvfbwrapper===0.2.9
 futures===3.2.0;python_version=='2.7'
@@ -535,7 +535,7 @@ monasca-statsd===1.10.1
 python-dateutil===2.7.3
 virtualenv===16.0.0
 colorama===0.3.9
-ironic-lib===2.14.0
+ironic-lib===2.14.1
 pytz===2018.5
 XStatic-D3===3.5.17.0
 actdiag===0.5.4
