@@ -496,3 +496,13 @@ skydive-client  # Apache-2.0
 
 # NOTE(anilvenkata): This is required for profiling oslo.service processes
 Yappi!=0.98,!=0.99  # MIT
+
+# Manually added
+# Either we build it through this file, or remove it from the kolla-base-image
+uwsgi                   # Replaces the python webserver scripts
+msgpack-python
+pika-pool               # For amqp1
+python-qpid-proton      # For amqp1
+pyvmomi                 # For vcenter-operator & networking-dvs
+attrs                   # Dito
+ironic-staging-drivers  # For ironic
