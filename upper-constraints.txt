@@ -12,7 +12,7 @@ python-hnvclient===0.1.0
 Routes===2.4.1
 rtslib-fb===2.1.66
 XStatic-Angular-Bootstrap===2.2.0.0
-paunch===4.2.0
+paunch===4.4.0
 WebOb===1.8.5
 sphinxcontrib-actdiag===0.8.5
 docopt===0.6.2
@@ -87,7 +87,7 @@ pyngus===2.3.0
 Pillow===5.4.1
 zuul-sphinx===0.3.0
 python-mimeparse===1.6.0
-tripleo-common===10.4.0
+tripleo-common===10.7.0
 Tempita===0.5.2
 ply===3.11
 requests-toolbelt===0.9.1
@@ -169,18 +169,18 @@ pycparser===2.19
 mock===2.0.0
 PyYAML===3.13
 beautifulsoup4===4.7.1
-os-net-config===10.2.0
+os-net-config===10.4.0
 ovs===2.10.0
 cryptography===2.6.1
 adal===1.2.1
 backports.ssl-match-hostname===3.7.0.1;python_version=='2.7'
-openstack-release-test===1.2.1
+openstack-release-test===1.4.2
 pylxd===2.2.9
 ruamel.ordereddict===0.4.13;python_version=='2.7'
 pycryptodomex===3.7.3
 anyjson===0.3.3
 requests-mock===1.5.2
-os-apply-config===10.1.0
+os-apply-config===10.3.0
 prometheus-client===0.6.0
 oslosphinx===4.18.0
 mox3===0.27.0
@@ -264,7 +264,7 @@ XStatic-term.js===0.0.7.0
 oslo.log===3.42.3
 nodeenv===1.3.3
 pylev===1.3.0
-python-searchlightclient===1.5.0
+python-searchlightclient===1.5.1
 oslo.middleware===3.37.1
 XStatic-mdi===1.6.50.2
 django-pyscss===2.0.2
@@ -367,7 +367,7 @@ pika===0.13.0
 oslo.cache===1.33.2
 WebTest===2.0.33
 openstack.nose-plugin===0.11
-os-collect-config===10.1.0
+os-collect-config===10.3.0
 python-qpid-proton===0.27.0
 python-octaviaclient===1.8.0
 pysaml2===4.6.5
@@ -443,7 +443,7 @@ stomp.py===4.1.21
 xattr===0.9.6
 systemd-python===234
 python-memcached===1.59
-openstacksdk===0.26.0
+openstacksdk===0.27.0
 six===1.12.0
 dulwich===0.19.11
 kombu===4.4.0
@@ -508,7 +508,7 @@ keystoneauth1===3.13.1
 statsd===3.3.0
 XenAPI===1.2
 python-keystoneclient===3.19.0
-ceilometer===11.0.1
+ceilometer===12.0.0
 demjson===2.2.4
 diskimage-builder===2.20.3
 heat-translator===1.3.0
