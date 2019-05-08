@@ -3,7 +3,6 @@ openstack-dev/pbr
 openstack-infra/requestsexceptions
 openstack-infra/shade
 openstack/almanach
-openstack/anchor
 openstack/ansible-hardening
 openstack/automaton
 openstack/bandit
@@ -37,7 +36,6 @@ openstack/freezer-api
 openstack/freezer-tempest-plugin
 openstack/freezer-web-ui
 openstack/futurist
-openstack/fuxi
 openstack/gce-api
 openstack/glance
 openstack/glance_store
