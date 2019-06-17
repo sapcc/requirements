@@ -194,7 +194,7 @@ asyncio===3.4.3;python_version=='3.4'
 asyncio===3.4.3;python_version=='3.5'
 asyncio===3.4.3;python_version=='3.6'
 tzlocal===1.5.1
-python-novaclient===13.0.0
+python-novaclient===13.0.1
 bcrypt===3.1.6
 fixtures-git===0.1.0
 os-client-config===1.32.0
@@ -369,7 +369,7 @@ WebTest===2.0.33
 openstack.nose-plugin===0.11
 os-collect-config===10.3.0
 python-qpid-proton===0.27.0
-python-octaviaclient===1.8.0
+python-octaviaclient===1.8.1
 pysaml2===4.6.5
 requests-oauthlib===1.2.0
 oslo.reports===1.29.2
@@ -567,7 +567,7 @@ monasca-statsd===1.11.0
 python-dateutil===2.8.0
 virtualenv===16.4.3
 colorama===0.4.1
-ironic-lib===2.16.2
+ironic-lib===2.16.3
 pytz===2018.9
 XStatic-D3===3.5.17.0
 actdiag===0.5.4
