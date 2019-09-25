@@ -4,7 +4,7 @@ chardet===3.0.4
 rsa===3.4.2
 restructuredtext-lint===1.1.3
 netmiko===2.2.2
-instack-undercloud===9.5.0
+instack-undercloud===9.5.1
 PasteDeploy===1.5.2
 typing===3.6.4
 python-saharaclient===2.0.0
@@ -12,7 +12,7 @@ python-hnvclient===0.1.0
 Routes===2.4.1
 rtslib-fb===2.1.66
 XStatic-Angular-Bootstrap===2.2.0.0
-paunch===3.2.1
+paunch===3.2.2
 WebOb===1.8.2
 sphinxcontrib-actdiag===0.8.5
 docopt===0.6.2
@@ -87,7 +87,7 @@ pyngus===2.2.4
 Pillow===5.2.0
 zuul-sphinx===0.2.2
 python-mimeparse===1.6.0
-tripleo-common===9.5.0
+tripleo-common===9.6.1
 Tempita===0.5.2
 ply===3.11
 requests-toolbelt===0.8.0
@@ -139,7 +139,7 @@ pyudev===0.21.0
 git+https://github.com/sapcc/eventlet.git@stable/pike-m3#egg=eventlet
 openstack-doc-tools===1.8.0
 frozendict===1.2
-oslo.messaging===8.1.2
+oslo.messaging===8.1.3
 jira===2.0.0
 extras===1.0.0
 PyJWT===1.6.4
@@ -159,7 +159,7 @@ pycparser===2.18
 mock===2.0.0
 PyYAML===3.13
 beautifulsoup4===4.6.0
-os-net-config===9.3.0
+os-net-config===9.4.1
 ovs===2.9.2
 cryptography===2.3
 backports.ssl-match-hostname===3.5.0.1;python_version=='2.7'
@@ -169,7 +169,7 @@ ruamel.ordereddict===0.4.13;python_version=='2.7'
 pycryptodomex===3.6.4
 anyjson===0.3.3
 requests-mock===1.5.2
-os-apply-config===9.1.1
+os-apply-config===9.1.2
 oslosphinx===4.18.0
 mox3===0.26.0
 gunicorn===19.9.0
@@ -188,7 +188,7 @@ os-client-config===1.31.2
 XStatic-Angular-Gettext===2.3.8.0
 XStatic-Hogan===2.0.0.2
 XStatic-objectpath===1.2.1.0
-python-manilaclient===1.24.1
+python-manilaclient===1.24.2
 requests===2.20.1
 snowballstemmer===1.2.1
 Jinja2===2.10
@@ -213,7 +213,7 @@ funcparserlib===0.3.6
 passlib===1.7.1
 dib-utils===0.0.11
 cliff===2.13.0
-os-brick===2.5.6
+os-brick===2.5.8
 ansible-runner===1.0.5
 trollius===2.2;python_version=='2.7'
 scp===0.11.0
@@ -316,9 +316,9 @@ testtools===2.3.0
 Parsley===1.3
 XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
-python-cinderclient===4.0.1
-#keystonemiddleware===5.2.0
+#keystonemiddleware===5.2.1
 git+https://github.com/sapcc/keystonemiddleware.git@stable/rocky-m3#egg=keystonemiddleware
+python-cinderclient===4.0.2
 django-formtools===2.1
 python-ceilometerclient===2.9.0
 XStatic-Spin===1.2.5.2
@@ -344,12 +344,12 @@ os-dpm===1.1.0
 sushy===1.6.0
 python-neutronclient===6.9.1
 pika===0.12.0
-oslo.cache===1.30.3
+oslo.cache===1.30.4
 WebTest===2.0.30
 openstack.nose-plugin===0.11
 os-collect-config===9.2.1
 python-qpid-proton===0.23.0
-python-octaviaclient===1.6.0
+python-octaviaclient===1.6.1
 pysaml2===4.5.0
 requests-oauthlib===1.0.0
 oslo.reports===1.28.0
@@ -419,7 +419,7 @@ stomp.py===4.1.21
 xattr===0.9.3
 systemd-python===234
 python-memcached===1.59
-openstacksdk===0.17.2
+openstacksdk===0.17.3
 six===1.11.0
 dulwich===0.19.5
 pykafka===2.7.0
@@ -434,12 +434,12 @@ subprocess32===3.5.2;python_version=='2.7'
 etcd3gw===0.2.4
 Flask-RESTful===0.3.6
 GitPython===2.1.11
-python-ironicclient===2.5.1
+python-ironicclient===2.5.3
 XStatic===1.0.1
 XStatic-Angular-FileUpload===12.0.4.0
 python-openstackclient===3.16.2
 pyzmq===17.1.0
-oslo.db===4.40.1
+oslo.db===4.40.2
 simplegeneric===0.8.1
 python-pcre===0.7
 abclient===0.2.3
@@ -491,7 +491,7 @@ qpid-python===1.36.0.post1;python_version=='2.7'
 contextlib2===0.5.5
 XStatic-Angular-lrdragndrop===1.0.2.2
 python-congressclient===1.11.0
-ovsdbapp===0.12.3
+ovsdbapp===0.12.4
 aniso8601===3.0.2
 rjsmin===1.0.12
 icalendar===4.0.2
@@ -535,7 +535,7 @@ monasca-statsd===1.10.1
 python-dateutil===2.7.3
 virtualenv===16.0.0
 colorama===0.3.9
-ironic-lib===2.14.1
+ironic-lib===2.14.2
 pytz===2018.5
 XStatic-D3===3.5.17.0
 actdiag===0.5.4
