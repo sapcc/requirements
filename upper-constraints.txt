@@ -63,7 +63,8 @@ pytest===5.4.1;python_version=='3.6'
 pytest===5.4.1;python_version=='3.7'
 pytest===5.4.1;python_version=='3.8'
 python-etcd===0.4.5
-raven===6.10.0
+#raven===6.10.0
+git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
 cursive===0.2.2
 oslo.service===1.41.1;python_version=='2.7'
 oslo.service===2.1.1;python_version=='3.6'
