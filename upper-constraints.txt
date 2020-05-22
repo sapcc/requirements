@@ -699,3 +699,4 @@ Pygments===2.3.1;python_version=='3.4'
 Pygments===2.6.1;python_version=='3.5'
 Pygments===2.6.1;python_version=='3.6'
 Pygments===2.6.1;python_version=='3.7'
+edgegrid-python===1.1.1
