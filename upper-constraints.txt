@@ -638,11 +638,12 @@ glance-store===1.0.1
 sphinxcontrib-programoutput===0.14
 storpool.spopenstack===2.2.1
 sphinx-testing===1.0.1
-dnspython===1.15.0;python_version=='3.4'
-dnspython===1.15.0;python_version=='3.5'
-dnspython===1.15.0;python_version=='3.6'
-dnspython===1.15.0;python_version=='3.7'
-dnspython===1.16.0;python_version=='2.7'
+git+https://github.com/sapcc/dnspython.git@master#egg=dnspython
+#dnspython===1.15.0;python_version=='3.4'
+#dnspython===1.15.0;python_version=='3.5'
+#dnspython===1.15.0;python_version=='3.6'
+#dnspython===1.15.0;python_version=='3.7'
+#dnspython===1.16.0;python_version=='2.7'
 oauthlib===3.1.0
 Babel===2.7.0
 logutils===0.3.5
