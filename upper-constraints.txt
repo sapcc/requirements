@@ -638,7 +638,7 @@ glance-store===1.0.1
 sphinxcontrib-programoutput===0.14
 storpool.spopenstack===2.2.1
 sphinx-testing===1.0.1
-git+https://github.com/sapcc/dnspython.git@master#egg=dnspython
+git+https://github.com/sapcc/dnspython.git@ccloud#egg=dnspython
 #dnspython===1.15.0;python_version=='3.4'
 #dnspython===1.15.0;python_version=='3.5'
 #dnspython===1.15.0;python_version=='3.6'
