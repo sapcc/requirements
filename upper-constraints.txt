@@ -507,8 +507,8 @@ jsonschema===2.6.0
 alembic===0.9.7
 glance-store===0.23.0
 sphinx-testing===0.7.2
-dnspython===1.15.0
-#git+https://github.com/sapcc/dnspython.git@master#egg=dnspython
+#dnspython===1.15.0
+git+https://github.com/sapcc/dnspython.git@ccloud#egg=dnspython
 oauthlib===2.0.6
 Babel===2.5.3
 logutils===0.3.5
