@@ -38,7 +38,6 @@ pytest===5.1.2;python_version=='3.6'
 pytest===5.1.2;python_version=='3.7'
 python-etcd===0.4.5
 #raven===6.10.0
-git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
 cursive===0.2.2
 oslo.service===1.40.2
 django-appconf===1.0.3
@@ -283,7 +282,6 @@ funcparserlib===0.3.6
 passlib===1.7.1
 dib-utils===0.0.11
 cliff===2.16.0
-git+https://github.com/sapcc/os-brick.git@stable/train-m3#egg=os-brick
 ansible-runner===1.3.4
 trollius===2.2.post1;python_version=='2.7'
 scp===0.13.2
@@ -374,7 +372,6 @@ s3transfer===0.2.1
 text-unidecode===1.2
 sphinxcontrib-svg2pdfconverter===0.1.0
 murano-pkg-check===0.3.0
-git+https://github.com/sapcc/oslo.vmware.git@stable/train-m3#egg=oslo.vmware
 sqlalchemy-migrate===0.12.0
 python-monascaclient===1.16.0
 ldap3===2.6.1
@@ -637,7 +634,6 @@ glance-store===1.0.1
 sphinxcontrib-programoutput===0.14
 storpool.spopenstack===2.2.1
 sphinx-testing===1.0.1
-git+https://github.com/sapcc/dnspython.git@ccloud#egg=dnspython
 #dnspython===1.15.0;python_version=='3.4'
 #dnspython===1.15.0;python_version=='3.5'
 #dnspython===1.15.0;python_version=='3.6'

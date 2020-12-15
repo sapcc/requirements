@@ -1,2 +1,6 @@
 git+https://github.com/sapcc/openstack-watcher-middleware.git
 git+https://github.com/sapcc/openstack-audit-middleware.git
+git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
+git+https://github.com/sapcc/os-brick.git@stable/train-m3#egg=os-brick
+git+https://github.com/sapcc/oslo.vmware.git@stable/train-m3#egg=oslo.vmware
+git+https://github.com/sapcc/dnspython.git@ccloud#egg=dnspython
