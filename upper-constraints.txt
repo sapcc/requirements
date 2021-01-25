@@ -483,7 +483,7 @@ tenacity===5.0.3
 python-designateclient===2.11.0
 future===0.17.1
 Paste===3.0.7
-jaeger-client===3.13.0
+jaeger-client===4.1.0
 XStatic-Json2yaml===0.1.1.0
 boto===2.49.0
 functools32===3.2.3.post2;python_version=='2.7'
