@@ -585,3 +585,5 @@ sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.1
 setuptools===54.1.1
 ruamel.yaml===0.17.7
+python-redis===0.2.2
+crc16===0.1.1
