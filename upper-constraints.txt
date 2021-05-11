@@ -696,3 +696,5 @@ Pygments===2.6.1;python_version=='3.5'
 Pygments===2.6.1;python_version=='3.6'
 Pygments===2.6.1;python_version=='3.7'
 edgegrid-python===1.1.1
+python-redis===0.2.2
+crc16===0.1.1
