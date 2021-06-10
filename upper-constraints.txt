@@ -507,7 +507,7 @@ xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===5.16.1
 Django===1.11.26;python_version=='2.7'
-Django===2.0.13;python_version=='3.4'
+Django===2.2.24;python_version=='3.4'
 Django===2.0.13;python_version=='3.5'
 Django===2.0.13;python_version=='3.6'
 Django===2.0.13;python_version=='3.7'
