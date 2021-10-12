@@ -343,6 +343,7 @@ stevedore  # Apache-2.0
 storops  # Apache-2.0
 systemd-python  # LGPLv2+
 sysv-ipc  # BSD License
+suds-community  # LGPLv3+
 suds-jurko  # LGPLv3+
 sympy  # BSD
 taskflow  # Apache-2.0

@@ -113,6 +113,7 @@ Tempita===0.5.2
 ply===3.11
 requests-toolbelt===0.9.1
 simplejson===3.16.0
+suds-community===0.8.5
 suds-jurko===0.6
 python-swiftclient===3.8.1
 pyOpenSSL===19.1.0
