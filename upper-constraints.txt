@@ -599,3 +599,4 @@ sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.2
 setuptools===57.4.0
+crc16===0.1.1
