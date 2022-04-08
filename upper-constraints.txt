@@ -542,3 +542,4 @@ actdiag===0.5.4
 sysv-ipc===1.0.0
 scikit-learn===0.19.2
 edgegrid-python===1.1.1
+horizon<15
