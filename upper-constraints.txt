@@ -169,7 +169,7 @@ XStatic-roboto-fontface===0.5.0.0
 pyudev===0.23.2
 eventlet===0.33.0
 openstack-doc-tools===3.3.0
-oslo.messaging===12.13.0
+git+https://github.com/sapcc/oslo.messaging.git@stable/yoga-m3#egg=oslo.messaging
 jira===3.1.1
 extras===1.0.0
 PyJWT===2.3.0
@@ -585,7 +585,7 @@ sphinxcontrib-devhelp===1.0.2
 python-blazarclient===3.4.0
 alembic===1.7.6
 execnet===1.9.0
-glance-store===3.0.0
+#glance-store===3.0.0
 sphinxcontrib-programoutput===0.17
 storpool.spopenstack===3.1.0
 sphinx-testing===1.0.1
@@ -640,3 +640,5 @@ scikit-learn===0.24.2;python_version=='3.6'
 scikit-learn===1.0.2;python_version=='3.8'
 setuptools===59.6.0;python_version=='3.6'
 setuptools===60.9.3;python_version=='3.8'
+python-redis===0.2.2
+crc16===0.1.1
