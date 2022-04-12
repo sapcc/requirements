@@ -1,3 +1,12 @@
+===========================
+Branch stable/xena-m3-dirty
+===========================
+
+This branch is kept for history purpose, it has been the base for
+services barbican, glance and  manila running on xena for a while,
+but we noticed that is has moved forward too far into the yoga release.
+
+
 ===========================================================
  Global Requirements and Constraints for OpenStack Projects
 ===========================================================
