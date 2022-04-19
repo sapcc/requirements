@@ -554,7 +554,8 @@ execnet===1.9.0
 sphinxcontrib-programoutput===0.17
 storpool.spopenstack===3.0.1
 sphinx-testing===1.0.1
-dnspython===1.16.0
+git+https://github.com/sapcc/dnspython.git@xena-m3#egg=dnspython
+#dnspython===1.16.0
 oauthlib===3.1.1
 Babel===2.9.1
 logutils===0.3.5
