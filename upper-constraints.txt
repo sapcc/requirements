@@ -1014,3 +1014,5 @@ python-redis===0.2.2
 crc16===0.1.1
 ncclient==0.6.12
 ucsmsdk==0.9.12
+bandit==1.7.1
+
