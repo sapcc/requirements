@@ -97,7 +97,6 @@ ply===3.11
 google-api-core===2.8.2
 requests-toolbelt===0.9.1
 simplejson===3.17.6
-suds-jurko===0.6
 types-paramiko===2.11.3
 immutables===0.18
 python-swiftclient===4.1.0
@@ -156,7 +155,7 @@ XStatic-roboto-fontface===0.5.0.0
 pyudev===0.24.0
 eventlet===0.33.1
 openstack-doc-tools===3.3.1
-oslo.messaging===14.0.0
+git+https://github.com/sapcc/oslo.messaging.git@stable/zed-m3#egg=oslo.messaging
 jira===3.4.0
 extras===1.0.0
 PyJWT===2.4.0
@@ -543,7 +542,7 @@ sphinxcontrib-devhelp===1.0.2
 python-blazarclient===3.5.0
 alembic===1.8.1
 execnet===1.9.0
-glance-store===4.1.0
+#glance-store===4.1.0
 sphinxcontrib-programoutput===0.17
 storpool.spopenstack===3.1.0
 sphinx-testing===1.0.1
@@ -590,3 +589,5 @@ actdiag===3.0.0
 sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===1.1.2
+python-redis===0.2.2
+crc16===0.1.1
