@@ -3,3 +3,5 @@ git+https://github.com/sapcc/openstack-watcher-middleware.git
 git+https://github.com/sapcc/openstack-audit-middleware.git
 git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
 git+https://github.com/sapcc/glance_store.git@stable/xena-m3#egg=glance_store
+git+https://github.com/sapcc/oslo.messaging.git@stable/xena-m3#egg=oslo.messaging
+git+https://github.com/sapcc/keystonemiddleware.git@stable/xena-m3#egg=keystonemiddleware
