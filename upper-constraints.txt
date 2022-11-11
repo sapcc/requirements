@@ -556,7 +556,7 @@ glance-store @ git+https://github.com/sapcc/glance_store.git@stable/xena-m3
 sphinxcontrib-programoutput===0.17
 storpool.spopenstack===3.0.1
 sphinx-testing===1.0.1
-dnspython @ git+https://github.com/sapcc/dnspython.git@xena-m3
+dnspython @ git+https://github.com/sapcc/dnspython.git@train-m3
 #dnspython===1.16.0
 oauthlib===3.1.1
 Babel===2.9.1
@@ -604,6 +604,4 @@ scikit-learn===0.24.2
 setuptools===57.4.0
 python-redis===0.3.0
 crc16===0.1.1
-audit-middleware @ git+https://github.com/sapcc/openstack-audit-middleware.git
-watcher-middleware @ git+https://github.com/sapcc/openstack-watcher-middleware.git
 raven @ git+https://github.com/sapcc/raven-python.git@ccloud
