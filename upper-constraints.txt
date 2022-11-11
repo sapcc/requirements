@@ -164,7 +164,7 @@ pyudev===0.22.0
 eventlet===0.31.1
 openstack-doc-tools===3.3.0
 #oslo.messaging===12.9.4
-git+https://github.com/sapcc/oslo.messaging.git@stable/xena-m3#egg=oslo.messaging
+oslo.messaging @ git+https://github.com/sapcc/oslo.messaging.git@stable/xena-m3
 jira===3.0.1
 extras===1.0.0
 PyJWT===2.1.0
@@ -354,7 +354,7 @@ XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
 python-cinderclient===8.1.0
 #keystonemiddleware===9.3.0
-git+https://github.com/sapcc/keystonemiddleware.git@stable/xena-m3#egg=keystonemiddleware
+keystonemiddleware @ git+https://github.com/sapcc/keystonemiddleware.git@stable/xena-m3
 django-formtools===2.3
 python-ceilometerclient===2.9.0
 XStatic-Spin===1.2.5.3
@@ -552,11 +552,11 @@ python-blazarclient===3.3.1
 alembic===1.7.1
 execnet===1.9.0
 #glance-store===2.7.0
-git+https://github.com/sapcc/glance_store.git@stable/xena-m3#egg=glance_store
+glance-store @ git+https://github.com/sapcc/glance_store.git@stable/xena-m3
 sphinxcontrib-programoutput===0.17
 storpool.spopenstack===3.0.1
 sphinx-testing===1.0.1
-git+https://github.com/sapcc/dnspython.git@train-m3#egg=dnspython
+dnspython @ git+https://github.com/sapcc/dnspython.git@xena-m3
 #dnspython===1.16.0
 oauthlib===3.1.1
 Babel===2.9.1
@@ -604,6 +604,6 @@ scikit-learn===0.24.2
 setuptools===57.4.0
 python-redis===0.3.0
 crc16===0.1.1
-git+https://github.com/sapcc/openstack-audit-middleware.git
-git+https://github.com/sapcc/openstack-watcher-middleware.git
-git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
+audit-middleware @ git+https://github.com/sapcc/openstack-audit-middleware.git
+watcher-middleware @ git+https://github.com/sapcc/openstack-watcher-middleware.git
+raven @ git+https://github.com/sapcc/raven-python.git@ccloud
