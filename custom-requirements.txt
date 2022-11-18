@@ -1,4 +1,0 @@
-git+https://github.com/sapcc/openstack-watcher-middleware.git
-git+https://github.com/sapcc/openstack-audit-middleware.git
-git+https://github.com/sapcc/raven-python.git@ccloud#egg=raven
-git+https://github.com/sapcc/glance_store.git@stable/zed-m3#egg=glance_store

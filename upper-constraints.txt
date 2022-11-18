@@ -155,7 +155,8 @@ XStatic-roboto-fontface===0.5.0.0
 pyudev===0.24.0
 eventlet===0.33.1
 openstack-doc-tools===3.3.1
-git+https://github.com/sapcc/oslo.messaging.git@stable/zed-m3#egg=oslo.messaging
+#oslo.messaging===14.0.0
+oslo.messaging @ git+https://github.com/sapcc/oslo.messaging.git@stable/zed-m3
 jira===3.4.0
 extras===1.0.0
 PyJWT===2.4.0
@@ -353,7 +354,8 @@ infi.dtypes.iqn===0.4.0
 XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
 python-cinderclient===9.1.0
-keystonemiddleware===10.1.0
+#keystonemiddleware===10.1.0
+keystonemiddleware @ git+https://github.com/sapcc/keystonemiddleware.git@stable/zed-m3
 django-formtools===2.3
 XStatic-Spin===1.2.5.3
 tap-as-a-service===10.0.0
@@ -543,6 +545,7 @@ python-blazarclient===3.5.0
 alembic===1.8.1
 execnet===1.9.0
 #glance-store===4.1.0
+glance-store @ git+https://github.com/sapcc/glance_store.git@stable/zed-m3
 sphinxcontrib-programoutput===0.17
 storpool.spopenstack===3.1.0
 sphinx-testing===1.0.1
@@ -591,3 +594,4 @@ sphinxcontrib-applehelp===1.0.2
 scikit-learn===1.1.2
 python-redis===0.2.2
 crc16===0.1.1
+raven @ git+https://github.com/sapcc/raven-python.git@ccloud
