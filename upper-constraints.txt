@@ -645,3 +645,5 @@ setuptools===60.9.3;python_version=='3.8'
 python-redis===0.2.2
 crc16===0.1.1
 raven @ git+https://github.com/sapcc/raven-python.git@ccloud
+networking-sfc===14.0.0
+networking-bagpipe===16.0.0
