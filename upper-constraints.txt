@@ -134,7 +134,7 @@ defusedxml===0.7.1
 netaddr===0.8.0
 pyghmi===1.5.53
 sphinxcontrib-blockdiag===3.0.0
-thrift===0.16.0
+#thrift===0.16.0
 gnocchiclient===7.0.7
 wcwidth===0.2.5
 sphinxcontrib.datatemplates===0.9.1
