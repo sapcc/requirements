@@ -121,7 +121,7 @@ doc8===0.8.1
 pymongo===3.11.0
 python-cloudkittyclient===4.1.0
 soupsieve===2.0.1
-sqlparse===0.3.1
+sqlparse===0.4.4
 oslotest===4.4.1
 jsonpointer===2.0
 defusedxml===0.6.0
@@ -160,7 +160,7 @@ ifaddr===0.1.7
 reno===3.2.0
 imagesize===1.2.0
 pydot===1.4.1
-urllib3===1.25.10
+urllib3===1.26.5
 graphviz===0.14.1
 PyKMIP===0.10.0
 whereto===0.4.0
@@ -169,11 +169,11 @@ python-subunit===1.4.0
 tornado===6.0.4
 pycparser===2.20
 mock===3.0.5
-PyYAML===5.3.1
+PyYAML===5.4
 beautifulsoup4===4.9.1
 os-net-config===13.3.0
 ovs===2.13.0
-cryptography===3.1
+cryptography===3.3.2
 httpcore===0.10.2
 URLObject===2.4.3
 nocasedict===0.5.0
@@ -474,7 +474,7 @@ repoze.lru===0.7
 rfc3986===1.4.0
 tenacity===6.2.0
 python-designateclient===4.1.0
-future===0.18.2
+future===0.18.3
 Paste===3.4.3
 pytest-django===3.9.0
 jaeger-client===4.3.0
