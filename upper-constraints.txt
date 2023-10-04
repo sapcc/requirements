@@ -161,7 +161,7 @@ XStatic-roboto-fontface===0.5.0.0
 pyudev===0.24.1
 eventlet===0.33.3
 openstack-doc-tools===3.3.1
-oslo.messaging===14.4.1
+oslo.messaging @ git+https://github.com/sapcc/oslo.messaging.git@stable/2023.2-m3
 jira===3.5.0
 extras===1.0.0
 PyJWT===2.6.0
@@ -360,7 +360,7 @@ infi.dtypes.iqn===0.4.0
 XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
 python-cinderclient===9.4.0
-keystonemiddleware===10.4.1
+keystonemiddleware @ git+https://github.com/sapcc/keystonemiddleware.git@stable/2023.2-m3
 django-formtools===2.4
 XStatic-Spin===1.2.5.3
 tap-as-a-service===12.0.0.0rc1
@@ -377,7 +377,7 @@ idna===3.4
 yamlloader===1.2.2
 protobuf===4.22.3
 pyhcl===0.4.4
-sushy===4.5.1
+sushy @ git+https://github.com/sapcc/sushy.git@stable/2023.2-m3
 python-neutronclient===11.0.0
 pika===1.3.1
 oslo.cache===3.5.0
@@ -555,7 +555,8 @@ glance-store===4.6.1
 sphinxcontrib-programoutput===0.17
 storpool.spopenstack===3.2.0
 sphinx-testing===1.0.1
-dnspython===2.3.0
+dnspython @ git+https://github.com/sapcc/dnspython.git@2023.2-m3
+oauthlib===3.2.1
 oauthlib===3.2.2
 Babel===2.12.1
 logutils===0.3.5
@@ -598,3 +599,6 @@ actdiag===3.0.0
 sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.4
 scikit-learn===1.2.2
+python-redis===0.3.0
+crc16 @ git+https://github.com/sapcc/pycrc16.git
+raven @ git+https://github.com/sapcc/raven-python.git@ccloud
