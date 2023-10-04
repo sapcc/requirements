@@ -556,7 +556,7 @@ storpool.spopenstack===3.2.0
 sphinx-testing===1.0.1
 dnspython @ git+https://github.com/sapcc/dnspython.git@2023.2-m3
 oauthlib===3.2.1
-oauthlib===3.2.2
+#oauthlib===3.2.2
 Babel===2.12.1
 logutils===0.3.5
 zipp===3.15.0
