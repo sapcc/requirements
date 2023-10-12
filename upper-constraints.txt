@@ -589,7 +589,5 @@ sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===1.1.2
 pytest-cov===4.0.0
-python-redis===0.3.0
-crc16 @ git+https://github.com/sapcc/pycrc16.git
 raven @ git+https://github.com/sapcc/raven-python.git@ccloud
 pyroscope-io===0.8.1
