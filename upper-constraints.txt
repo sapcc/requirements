@@ -381,7 +381,7 @@ tooz===6.3.0
 idna===3.8
 yamlloader===1.4.1
 protobuf===4.25.4
-sushy @ git+https://github.com/sapcc/sushy.git@stable/2023.2-m3
+sushy @ git+https://github.com/sapcc/sushy.git@stable/2024.2-m3
 python-neutronclient===11.3.1
 types-setuptools===73.0.0.20240822
 pika===1.3.2
@@ -569,7 +569,7 @@ execnet===2.1.1
 glance-store @ git+https://github.com/sapcc/glance_store.git@stable/2024.2-m3
 sphinxcontrib-programoutput===0.17
 storpool.spopenstack===3.2.0
-dnspython @ git+https://github.com/sapcc/dnspython.git@2024.2-m3
+dnspython @ git+https://github.com/sapcc/dnspython.git@2023.2-m3
 oauthlib===3.2.2
 logutils===0.3.5
 zipp===3.20.0
