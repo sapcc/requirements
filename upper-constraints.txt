@@ -169,7 +169,7 @@ XStatic-roboto-fontface===0.5.0.0
 pyudev===0.24.3
 eventlet===0.36.1
 openstack-doc-tools===4.0.0
-oslo.messaging===14.9.0
+oslo.messaging @ git+https://github.com/sapcc/oslo.messaging.git@stable/2024.2-m3
 jira===3.8.0
 extras===1.0.0
 PyJWT===2.9.0
@@ -332,7 +332,6 @@ metalsmith===2.3.0
 s3transfer===0.10.2
 text-unidecode===1.3
 sphinxcontrib-svg2pdfconverter===1.2.2
-oslo.vmware===4.5.0
 XStatic-moment===2.8.4.3
 autopage===0.5.2
 gitdb===4.0.11
@@ -368,7 +367,7 @@ infi.dtypes.iqn===0.4.0
 XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
 python-cinderclient===9.6.0
-keystonemiddleware===10.7.1
+keystonemiddleware @ git+https://github.com/sapcc/keystonemiddleware.git@stable/2024.2-m3
 django-formtools===2.5.1
 XStatic-Spin===1.2.5.3
 tap-as-a-service===14.0.0.0rc1
@@ -382,7 +381,7 @@ tooz===6.3.0
 idna===3.8
 yamlloader===1.4.1
 protobuf===4.25.4
-sushy===5.2.0
+sushy @ git+https://github.com/sapcc/sushy.git@stable/2023.2-m3
 python-neutronclient===11.3.1
 types-setuptools===73.0.0.20240822
 pika===1.3.2
@@ -567,10 +566,10 @@ sphinxcontrib-devhelp===2.0.0;python_version>='3.9'
 python-blazarclient===4.1.0
 alembic===1.13.2
 execnet===2.1.1
-glance-store===4.8.1
+glance-store @ git+https://github.com/sapcc/glance_store.git@stable/2024.2-m3
 sphinxcontrib-programoutput===0.17
 storpool.spopenstack===3.2.0
-dnspython===2.6.1
+dnspython @ git+https://github.com/sapcc/dnspython.git@2024.2-m3
 oauthlib===3.2.2
 logutils===0.3.5
 zipp===3.20.0
@@ -617,3 +616,6 @@ sphinxcontrib-applehelp===1.0.4;python_version=='3.8'
 sphinxcontrib-applehelp===2.0.0;python_version>='3.9'
 scikit-learn===1.3.2;python_version=='3.8'
 scikit-learn===1.5.1;python_version>='3.9'
+raven @ git+https://github.com/sapcc/raven-python.git@ccloud
+pyroscope-io===0.8.1
+crc<7.0.0
