@@ -192,7 +192,7 @@ cryptography===43.0.3
 httpcore===1.0.7
 URLObject===2.4.3
 psycopg2-binary===2.9.10
-glance_store===4.9.1
+glance-store @ git+https://github.com/sapcc/glance_store.git@stable/2025.1-m3
 openstack-release-test===8.0.0
 pycryptodomex===3.21.0
 requests-mock===1.12.1
@@ -319,7 +319,6 @@ metalsmith===2.4.1
 s3transfer===0.11.2
 text-unidecode===1.3
 sphinxcontrib-svg2pdfconverter===1.2.3
-oslo.vmware===4.6.0
 XStatic-moment===2.8.4.3
 autopage===0.5.2
 gitdb===4.0.12
@@ -354,7 +353,7 @@ infi.dtypes.iqn===0.4.0
 XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
 python-cinderclient===9.7.0
-keystonemiddleware===10.9.0
+keystonemiddleware @ git+https://github.com/sapcc/keystonemiddleware.git@stable/2025.1-m3
 django-formtools===2.5.1
 XStatic-Spin===1.2.5.3
 rich===13.9.4
@@ -369,7 +368,7 @@ tooz===6.3.0
 idna===3.10
 yamlloader===1.5.1
 protobuf===5.29.3
-sushy===5.5.0
+sushy @ git+https://github.com/sapcc/sushy.git@stable/2025.1-m3
 python-neutronclient===11.4.0
 types-setuptools===75.8.0.20250210
 pika===1.3.2
@@ -551,7 +550,6 @@ alembic===1.14.1
 execnet===2.1.1
 sphinxcontrib-programoutput===0.18
 storpool.spopenstack===3.2.0
-dnspython===2.7.0
 oauthlib===3.2.2
 logutils===0.3.5
 zipp===3.21.0
@@ -597,3 +595,6 @@ actdiag===3.0.0
 sysv-ipc===1.1.0
 sphinxcontrib-applehelp===2.0.0
 scikit-learn===1.6.1
+raven @ git+https://github.com/sapcc/raven-python.git@ccloud
+pyroscope-io===0.8.1
+crc<7.0.0
