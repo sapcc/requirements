@@ -188,8 +188,7 @@ cryptography===43.0.3
 httpcore===1.0.9
 URLObject===3.0.0
 psycopg2-binary===2.9.10
-glance_store===4.10.0;python_version=='3.9'
-glance_store===5.2.0;python_version>='3.10'
+glance-store @ git+https://github.com/sapcc/glance_store.git@stable/2025.2-m3
 openstack-release-test===8.1.0
 requests-mock===1.12.1
 os-apply-config===14.0.1
@@ -360,8 +359,7 @@ infi.dtypes.iqn===0.4.0
 XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
 python-cinderclient===9.8.0
-keystonemiddleware===10.10.0;python_version=='3.9'
-keystonemiddleware===10.12.0;python_version>='3.10'
+keystonemiddleware @ git+https://github.com/sapcc/keystonemiddleware.git@stable/2025.2-m3
 django-formtools===2.5.1
 XStatic-Spin===1.2.5.3
 rich===14.1.0
@@ -375,7 +373,7 @@ tooz===7.0.0
 idna===3.10
 yamlloader===1.5.1
 protobuf===6.31.1
-sushy===5.7.1
+sushy @ git+https://github.com/sapcc/sushy.git@stable/2025.2-m3
 python-neutronclient===11.6.0
 types-setuptools===80.9.0.20250801
 pika===1.3.2
@@ -601,3 +599,6 @@ sysv-ipc===1.1.0
 sphinxcontrib-applehelp===2.0.0
 scikit-learn===1.6.1;python_version=='3.9'
 scikit-learn===1.7.1;python_version>='3.10'
+raven @ git+https://github.com/sapcc/raven-python.git@ccloud
+pyroscope-io===0.8.1
+crc<7.0.0
