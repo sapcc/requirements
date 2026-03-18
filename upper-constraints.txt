@@ -115,7 +115,9 @@ jaraco.classes===3.4.0
 debtcollector===3.0.0
 responses===0.25.7
 croniter===6.0.0
-horizon===25.5.1
+# Commented out: setuptools>=82 removed pkg_resources, breaking sdist-only builds.
+# Restore when https://review.opendev.org/c/openstack/requirements/+/978740 is merged.
+#horizon===25.5.1
 octavia-lib===3.10.0
 python-watcherclient===4.9.0
 MarkupSafe===3.0.2
@@ -212,7 +214,9 @@ XStatic-Angular-Gettext===2.4.1.0
 h11===0.16.0
 Pygments===2.19.2
 XStatic-Hogan===2.0.0.3
-XStatic-objectpath===1.2.1.0
+# Commented out: setuptools>=82 removed pkg_resources, breaking sdist-only builds.
+# Restore when https://review.opendev.org/c/openstack/requirements/+/978740 is merged.
+#XStatic-objectpath===1.2.1.0
 python-manilaclient===5.6.0
 sphinxcontrib-serializinghtml===2.0.0
 requests===2.32.4
@@ -269,7 +273,9 @@ toml===0.10.2
 pycdlib===1.14.0
 pyperclip===1.9.0
 cassandra-driver===3.29.2
-XStatic-Angular-Schema-Form===0.8.13.0
+# Commented out: setuptools>=82 removed pkg_resources, breaking sdist-only builds.
+# Restore when https://review.opendev.org/c/openstack/requirements/+/978740 is merged.
+#XStatic-Angular-Schema-Form===0.8.13.0
 opentelemetry-exporter-otlp-proto-http===1.36.0
 gabbi===3.1.0
 nwdiag===3.0.0
@@ -277,7 +283,9 @@ XStatic-bootswatch===3.3.7.0
 annotated-types===0.7.0
 pytest-xdist===3.8.0
 XStatic-JS-Yaml===3.8.1.0
-XStatic-term.js===0.0.7.0
+# Commented out: setuptools>=82 removed pkg_resources, breaking sdist-only builds.
+# Restore when https://review.opendev.org/c/openstack/requirements/+/978740 is merged.
+#XStatic-term.js===0.0.7.0
 oslo.log===7.2.1
 nodeenv===1.9.1
 gossip===2.4.0
@@ -356,7 +364,9 @@ pifpaf===3.3.0
 blockdiag===3.0.0
 testtools===2.7.2
 infi.dtypes.iqn===0.4.0
-XStatic-tv4===1.2.7.0
+# Commented out: setuptools>=82 removed pkg_resources, breaking sdist-only builds.
+# Restore when https://review.opendev.org/c/openstack/requirements/+/978740 is merged.
+#XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
 python-cinderclient===9.8.0
 keystonemiddleware @ git+https://github.com/sapcc/keystonemiddleware.git@stable/2025.2-m3
@@ -423,7 +433,9 @@ pyparsing===3.2.3
 geomet===0.2.1.post1
 opentelemetry-exporter-otlp-proto-common===1.36.0
 distlib===0.4.0
-XStatic-Moment-Timezone===0.5.22.0
+# Commented out: setuptools>=82 removed pkg_resources, breaking sdist-only builds.
+# Restore when https://review.opendev.org/c/openstack/requirements/+/978740 is merged.
+#XStatic-Moment-Timezone===0.5.22.0
 dogpile.cache===1.4.0
 python-barbicanclient===7.2.0
 salt===3007.6
