@@ -618,3 +618,4 @@ scikit-learn===1.5.1;python_version>='3.9'
 raven @ git+https://github.com/sapcc/raven-python.git@ccloud
 pyroscope-io===0.8.1
 crc<7.0.0
+setuptools<70
